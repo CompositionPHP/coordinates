@@ -4,5 +4,5 @@ This package provides a few value objects for working with GPS coordinates.
 To install this package:
 
 ```bash
-composer install composition/coordinates
+composer require composition/coordinates
 ```
